@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="stream">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-stream/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-stream/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-stream/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

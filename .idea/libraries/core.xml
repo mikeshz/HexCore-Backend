@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/internal-async/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/internal-http/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/internal-json/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/internal-logging/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/internal-util/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/jmx/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Twitter4j/twitter4j-core/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
